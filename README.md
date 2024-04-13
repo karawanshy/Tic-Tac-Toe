@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
-Simple python implementation of the classic Tic-Tac-Toe game in Python, in which you can play against the computer.
+
+A simple Python implementation of the classic Tic-Tac-Toe game, where you can play against the computer.
 
 ## How to Play
 
